@@ -8,7 +8,7 @@ public class mainTest {
 	public static void main(String[] args) {
 		
 		
-		WebDriver driver=new ChromeDriver();
+		
 		
 		int x = 45; 
 
