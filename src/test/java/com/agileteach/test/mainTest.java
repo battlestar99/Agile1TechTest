@@ -9,6 +9,8 @@ public class mainTest {
 		
 		
 		WebDriver driver=new ChromeDriver();
+		
+		int x = 45; 
 
 	}
 
